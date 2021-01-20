@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/dp/LinuxData/Projects/changeBattery/changeBattery/infrared_solvePnP.cpp
+infrared_solvePnP.h
+/media/dp/LinuxData/Projects/changeBattery/changeBattery/infrared_solvePnP.h
+
+/media/dp/LinuxData/Projects/changeBattery/changeBattery/infrared_solvePnP.h
+opencv2/opencv.hpp
+-
+opencv2/flann/flann.hpp
+-
+stdio.h
+-
+

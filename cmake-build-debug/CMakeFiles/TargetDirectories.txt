@@ -1,0 +1,3 @@
+/media/dp/LinuxData/Projects/changeBattery/changeBattery/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/dp/LinuxData/Projects/changeBattery/changeBattery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/dp/LinuxData/Projects/changeBattery/changeBattery/cmake-build-debug/CMakeFiles/LYCV.dir
